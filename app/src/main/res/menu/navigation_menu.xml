@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/starred"
+        android:title="Starred"
+        android:icon="@drawable/star"/>
+
+
+    <item android:id="@+id/snoozed"
+        android:title="Snoozed"
+        android:icon="@drawable/time"/>
+
+    <item android:id="@+id/important"
+        android:title="Imppotant"
+        android:icon="@drawable/important"/>
+
+    <item android:id="@+id/schedule"
+        android:title="Scheduled"
+        android:icon="@drawable/schedule"/>
+
+    <item android:id="@+id/outBox"
+        android:title="Outbox"
+        android:icon="@drawable/circle"/>
+</menu>
